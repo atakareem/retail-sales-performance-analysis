@@ -1,7 +1,5 @@
 # Retail Sales Performance Analysis
 
-An interactive Power BI dashboard designed to analyze retail sales performance across regions, product categories, customer segments, and shipping modes.
-
 ## Project Overview
 
 This project analyzes retail order data to understand sales performance, profitability, customer purchasing patterns, and monthly sales trends.
